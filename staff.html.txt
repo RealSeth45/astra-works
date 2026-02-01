@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Staff | Astra Works</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Astra Works Staff</h1>
+
+  <!-- Staff Card -->
+  <div class="staff-card">
+    <img src="images/realsseth_avatar.png" alt="RealSeth_x Avatar" class="avatar">
+    <div class="staff-info">
+      <h2>RealSeth_x <span>|</span> realseth_x</h2>
+      <h3>Company Director</h3>
+      <p>The company director leads new projects and announces all changes. They manage all commissions and new products designed for Astra Works.</p>
+    </div>
+  </div>
+
+</body>
+</html>
